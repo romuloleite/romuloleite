@@ -1,6 +1,4 @@
 <h1 align="center">Welcome, I'm Rómulo Leite</h1>
-<h3 align="center">Dedicated to transforming ideas into innovative solutions through the art of technology.</h3>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
